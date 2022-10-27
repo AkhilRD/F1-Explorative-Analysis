@@ -3,4 +3,4 @@ The high speeds and the brake neck overtakes at some of the most notorious corne
 
 An explorative analysis of F1 to break down some historical data on circuits, drivers and racing data to understand what makes them the best or the worst. 
 
-Google Colab file link: https://colab.research.google.com/drive/1MzlgagmV6KLdeH0nD-SAx60yQ6POEtbK#scrollTo=IImKH6UzQ1-i
+Kaggle link: https://www.kaggle.com/code/akhilreddy9554/f1-explorative-analysis
